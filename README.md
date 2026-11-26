@@ -1,1 +1,1 @@
-# intell-sys
+# intelligent System
